@@ -7,19 +7,13 @@ Project Description
 
 |SNo| Topic | SubTopic | Link |
 |-|-|-|-|
-|-| Introduction |-|[Data Sciene Project Template Part 1](https://youtu.be/C_cqTnpI1gQ)|
-|001|Installation|-|[How to do the basic setup for any python, ML, DL, projects on windows10 or 11?](https://youtu.be/bVM-QujJ0AI)|
-|-| Variables |-|-|
-|-| Expressions, Operators, and Precedence |-|-|
-|-| Control Flow |-|-|
-|-| inbuilt data structures |-|-|
-|-| Functions |-|-|
-|-| Iterators and Generators |-|-|
-|-| File Operations |-|-|
-|-| Important Built in modules |-|-|
-|-| Modules and Import statements |-|-|
-|-| OOPs |-|-|
-|-| Expection Handling |-|-|
-|-| logging |-|-|
-|-| debugging |-|-|
+|-| Introduction & Template Creation |-|[Data Sciene Project Template Part 1](https://youtu.be/C_cqTnpI1gQ)|
+|001|Setup File|-|[Setup file Implementation]([https://youtu.be/bVM-QujJ0AI](https://youtu.be/eHuEG_571Ng))|
+|-| Init_Setp File |-|[Inti Setup File Implementation](https://youtu.be/eHuEG_571Ng)
+|-| setup cfg file |-|-|
+|-| mkdocs |-|-|
+|-| tox ini |-|-|
+|-| test file |-|-|
+|-| main project folder|-|-|
+|-| application file |-|-|
 |-|-|-|-|
