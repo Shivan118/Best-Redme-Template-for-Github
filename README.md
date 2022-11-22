@@ -26,5 +26,12 @@ Project Description
 |-|-|-|
 |c17hawke|[@c17hawke]https://www.youtube.com/@c17hawke)|-|
 
+---
 
+| Mlops Websites | Link | More info |
+|-|-|-|
+|mlflow|https://mlflow.org/|-|
+|DVC|https://dvc.org/|-|
+|ZenML|https://zenml.io/home|-|
+|Evedently AI|[https://www.w3schools.com/python](https://www.evidentlyai.com/)|-|
 ---
