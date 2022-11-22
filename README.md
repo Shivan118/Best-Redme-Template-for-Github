@@ -4,6 +4,8 @@ Project Description
 ## Data Sciene project temple on my channel [Engineering Wala Bhaiya](https://www.youtube.com/@engineeringwalabhaiya)
 
 ### [Playlist](https://youtube.com/playlist?list=PLxV_QpaSutlHcAnPGOHYDXfSehfBf6eI0)
+<img src="https://github.com/Shivan118/Best-Redme-Template-for-Github/blob/main/Thumbnail.png" alt="MLBC">
+
 
 |SNo| Topic | SubTopic | Link |
 |-|-|-|-|
