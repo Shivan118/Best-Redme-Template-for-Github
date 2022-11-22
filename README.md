@@ -33,5 +33,5 @@ Project Description
 |mlflow|https://mlflow.org/|-|
 |DVC|https://dvc.org/|-|
 |ZenML|https://zenml.io/home|-|
-|Evedently AI|[https://www.w3schools.com/python](https://www.evidentlyai.com/)|-|
+|Evedently AI (https://www.evidentlyai.com/)|-|
 ---
