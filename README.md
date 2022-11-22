@@ -17,3 +17,14 @@ Project Description
 |-| main project folder|-|-|
 |-| application file |-|-|
 |-|-|-|-|
+
+## Best OpenSource python packages references to learn and practice
+
+### Price: You just need to pay **`$attention`**
+
+| YouTube Channels | Link | More info |
+|-|-|-|
+|c17hawke|[@c17hawke]https://www.youtube.com/@c17hawke)|-|
+
+
+---
